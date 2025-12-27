@@ -1,5 +1,59 @@
 # THE MOONTH
 
+**A Symbolic–Phenomenological Framework of Cyclical Consciousness**
+
+**Kamil Wójcik**  
+Oslo, Norway / Hrubieszów, Poland  
+
+[![Zenodo DOI - First Publication](https://zenodo.org/badge/DOI/10.5281/zenodo.17881141.svg)](https://doi.org/10.5281/zenodo.17881141)  
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+### Overview
+
+The Moonth is a phenomenological framework describing human consciousness as moving through recurring 29-day cycles composed of five phases, each lasting approximately 137 hours.
+
+The duration 137 symbolically aligns with the fine structure constant α ≈ 1/137.036, yielding the reciprocity:
+
+**α · Ψ(t) ≈ 1**
+
+This repository contains the original and complete collection of documents that constitute the discovery and development of the framework.
+
+### Key Publications
+
+**First Publication (Full Trilogy and Supporting Documents)**  
+Permanent archive with DOI:  
+[https://doi.org/10.5281/zenodo.17881141](https://doi.org/10.5281/zenodo.17881141)
+
+**Lean Version (Symbolic–Phenomenological Model)**  
+Refined, rigorous presentation:  
+[https://doi.org/10.5281/zenodo.18067950](https://doi.org/10.5281/zenodo.18067950)
+
+### Contents
+
+This repository archives the original documents, including:
+- The Moonth Trilogy (Manifesto, Protocol, The Gate)
+- Supporting papers (AURUM, EARTH CYCLE, SCHUMANN RESONANCE, SACRED SYMBOLS, etc.)
+- TELEOLOGY and SIMULATION hypothesis extensions
+
+All materials are released under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+
+### Related Repository
+
+Clean Python implementation and symbolic model:  
+[https://github.com/themoonth/the-mooonth](https://github.com/themoonth/the-mooonth) (separate repo for clarity)
+
+### Note
+
+The framework is offered as a lens for self-observation and understanding cyclical time — its value lies in personal use and further exploration.
+
+The structure was detected through sustained phenomenological attention.
+
+— Kamil Wójcik  
+December 2025
+
+
+# THE MOONTH
+
 **The Mathematical Structure of Consciousness**
 
 ---
